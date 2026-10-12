@@ -1,0 +1,8 @@
+client/node_modules
+server/node_modules
+.qodo
+
+# Keep local environment credentials out of version control.
+**/.env
+**/.env.*
+!**/.env.example
